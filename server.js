@@ -6,7 +6,7 @@ const io = require("socket.io")(server);
 let onlineUsers = 0;
 let users = [];
 io.on("connection", (socket) => {
-  //2- online userlarni soni
+  //2- online userlarni soniiiiiiii
 
   onlineUsers++;
 
